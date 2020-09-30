@@ -49,6 +49,9 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+**Note: This project may require a C++ addon for implementation of huge operations in a more efficient manner**
+A reference for the C++ addon is [C++ addon reference](https://www.youtube.com/watch?v=O4Rlq_NSkoM) and [another reference](https://www.youtube.com/watch?v=VPhPOEpZ3cI)
+
 ### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
