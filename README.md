@@ -1,10 +1,8 @@
-#All Purpose Calculator
+# All Purpose Calculator
 
 This project involves developing an application that performs simple to complex calculations in various domains such as science, statistics, algebra etc.
 
-## Getting Started
-
-
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
